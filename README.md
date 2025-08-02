@@ -1,0 +1,1 @@
+In this project, I learned the fundamentals of Linear Regression, including its types (simple and multiple) and various regression algorithms. I implemented and tested them on a simple dataset using Python and scikit-learn.
